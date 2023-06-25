@@ -94,5 +94,3 @@ Throught out the year in 2011 the OnlineRetail have 4215 customer where most of 
 ### Top 10's
 
 ![image](https://github.com/himanshu-004/OnlineRetail/assets/81569893/af1d3d95-d813-49cd-a3ec-19373ae145eb)
-
-## Conclusion and story telling
