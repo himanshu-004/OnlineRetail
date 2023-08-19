@@ -63,7 +63,16 @@ When examining the stacked bar chart, it becomes evident that the Netherlands ho
 To sum up, while the Netherlands may have fewer orders and customers than Germany, the remarkable disparity in the average spending per order underscores the pronounced economic contribution of the Netherlands to the overall sales figures.
 
 #### Bottom 5 counties by sales
+
 ![image](https://github.com/himanshu-004/OnlineRetail/assets/81569893/49efd04d-a73a-4a16-a096-dddb704eae4a)
+
+Upon examination of the data, it becomes evident that the Bottom 5 countries with the lowest sales are predominantly situated in the Middle East or North America. These regions show limited engagement with the OnlineRetail platform, with most of these countries having either only 1 customer or fewer than 5 customers.
+
+While OnlineRetail enjoys a substantial presence in Europe, it's worth noting that certain countries within the continent, such as the Czech Republic, Lithuania, and Malta, demonstrate a comparably lower presence of OnlineRetail stores.
+
+![image](https://github.com/himanshu-004/OnlineRetail/assets/81569893/5315258e-072c-4df2-abdb-d5c07ddbd419)
+
+In summary, the statistics reveal a notable discrepancy in customer engagement across different regions, with the Middle East and North America showing minimal OnlineRetail activity, and certain European countries displaying relatively modest online retail participation.
 
 #### Seasonality Trend 
 
