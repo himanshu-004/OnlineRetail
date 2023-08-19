@@ -49,7 +49,8 @@ The data is analyzed using SQL and used power BI for presenting the Insights
 
 ![image](https://github.com/himanshu-004/OnlineRetail/assets/81569893/e17b09bd-7fc3-4263-8380-54c9faee6815)
 
-Top 10 countries generating highest revenue, Netherlands is generating the highest revenue followed by Ireland and Germany when compare to total order and customer count Germany and Ireland have hihgest customers and order but Netherlands has highest quanity sold per product thus the revenue has highest for Netherlands.
+* Top 10 countries generating highest revenue
+Netherlands is generating the highest revenue followed by Ireland and Germany when compare to total order and customer count Germany and Ireland have hihgest customers and order but Netherlands has highest quanity sold per product thus the revenue has highest for Netherlands.
 
 Top 5 countries by sales
 ![image](https://github.com/himanshu-004/OnlineRetail/assets/81569893/0ccfc49e-013c-4865-b128-3d9ea228f73c)
