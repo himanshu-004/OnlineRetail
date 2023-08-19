@@ -52,10 +52,17 @@ The data is analyzed using SQL and used power BI for presenting the Insights
 * Top 10 countries generating highest revenue
 Netherlands is generating the highest revenue followed by Ireland and Germany when compare to total order and customer count Germany and Ireland have hihgest customers and order but Netherlands has highest quanity sold per product thus the revenue has highest for Netherlands.
 
-Top 5 countries by sales
+#### Top 5 countries by sales
+
 ![image](https://github.com/himanshu-004/OnlineRetail/assets/81569893/0ccfc49e-013c-4865-b128-3d9ea228f73c)
 
-Bottom 5 counties by sales
+When examining the stacked bar chart, it becomes evident that the Netherlands holds the highest number of sales in comparison to the other countries displayed. Upon comparing the statistics with Germany, it is noticeable that the total number of orders and customer count in the Netherlands are fewer. However, a significant observation emerges when analyzing the average spending per order. In the Netherlands, each customer spends an average of 3,036.66 per order, which starkly contrasts with Germany's average spending of 500.80 per order.
+
+![image](https://github.com/himanshu-004/OnlineRetail/assets/81569893/9894abc3-f8da-4bd3-ba34-fd905218645c)
+
+To sum up, while the Netherlands may have fewer orders and customers than Germany, the remarkable disparity in the average spending per order underscores the pronounced economic contribution of the Netherlands to the overall sales figures.
+
+#### Bottom 5 counties by sales
 ![image](https://github.com/himanshu-004/OnlineRetail/assets/81569893/49efd04d-a73a-4a16-a096-dddb704eae4a)
 
 #### Seasonality Trend 
